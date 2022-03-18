@@ -1,0 +1,16 @@
+{
+    "main_menu": [
+        "A. convert files",
+        "B. pfam_related",
+        "0. exit"
+    ],
+    "convert_files": [
+        {"A. sub menu": ["1. item1", "0. Back"]},
+        "1. fasta to json",
+        "0. Back"
+    ],
+    "pfam_related": [
+        "1. define pfam annotation of a fasta file",
+        "0. Back"
+    ]
+}
